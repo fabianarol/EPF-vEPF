@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="1083" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1100" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1108" localization="OSGI-INF/l10n/bundle" name="Nl2 Fragment" project="org.eclipse.epf.services.nl2"/>
+	<bundle bundleID="1107" localization="OSGI-INF/l10n/bundle" name="Nl1 Fragment" project="org.eclipse.epf.services.nl1"/>
+	<bundle bundleID="1151" localization="plugin" name="%pluginName" project="org.eclipse.epf.common.win32.win32.x86" provider="%providerName"/>
+	<bundle bundleID="1141" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.base" provider="%providerName"/>
+	<bundle bundleID="1160" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.add.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1095" class="org.eclipse.epf.richtext.tests.RichTextTestsPlugin" localization="plugin" name="EPF RichText Tests Plug-in" project="org.eclipse.epf.richtext.tests" provider="Eclipse.org"/>
+	<bundle bundleID="1159" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.add.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1073" localization="OSGI-INF/l10n/bundle" name="Nl2a Fragment" project="org.eclipse.epf.publishing.cmdline.nl2a"/>
+	<bundle bundleID="1145" localization="plugin" name="EPF Common Tests Plug-in" project="org.eclipse.epf.common.tests" provider="Eclipse.org"/>
+	<bundle bundleID="1165" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.core.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1216" class="org.eclipse.epf.importing.xml.ImportXMLPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.import.xml" provider="%providerName"/>
+	<bundle bundleID="1122" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.edit.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1232" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.nl1" provider="%nlProviderName">
+		<library name="nl1.jar"/>
+	</bundle>
+	<bundle bundleID="1164" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.core.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1233" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.nl2" provider="%nlProviderName">
+		<library name="nl2.jar"/>
+	</bundle>
+	<bundle bundleID="1062" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.migration.diagram.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1226" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.edit.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1230" localization="OSGI-INF/l10n/bundle" name="Nl2a Fragment" project="org.eclipse.epf.library.edit.ui.nl2a"/>
+	<bundle bundleID="1191" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1123" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.edit.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1187" class="org.eclipse.epf.export.msp.ExportMSPPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.msp" provider="%providerName">
+		<library name="exportmsp.jar"/>
+	</bundle>
+	<bundle bundleID="1168" class="org.eclipse.epf.diagram.model.provider.DiagramEditPlugin$Implementation" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.edit" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1137" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.authoring.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1127" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1147" localization="OSGI-INF/l10n/bundle" name="Nl1 Fragment" project="org.eclipse.epf.common.ui.nl1"/>
+	<bundle bundleID="1155" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.ad.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1112" class="org.eclipse.epf.toolbox.ToolboxPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.toolbox" provider="%providerName"/>
+	<bundle bundleID="1142" class="org.eclipse.epf.common.CommonPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.common" provider="%providerName">
+		<library name="common.jar"/>
+	</bundle>
+	<bundle bundleID="1096" class="org.eclipse.epf.search.SearchPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.search" provider="%providerName"/>
+	<bundle bundleID="1154" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.ad.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1088" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.rcp.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1139" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.authoring.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1202" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.xml.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1224" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.edit.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1209" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.help.doc.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1046" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1138" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.authoring.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1205" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.xml.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1148" localization="OSGI-INF/l10n/bundle" name="Nl2 Fragment" project="org.eclipse.epf.common.ui.nl2"/>
+	<bundle bundleID="1064" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.platform" provider="%providerName"/>
+	<bundle bundleID="1157" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.ad.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1158" class="org.eclipse.epf.diagram.add.part.ActivityDetailDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.add" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1044" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1203" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.xml.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1156" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.ad.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1223" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.edit.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1136" class="org.eclipse.epf.authoring.ui.AuthoringUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.authoring.ui" provider="%providerName"/>
+	<bundle bundleID="1152" localization="plugin" name="%pluginName" project="org.eclipse.epf.dataexchange" provider="%providerName"/>
+	<bundle bundleID="1106" class="org.eclipse.epf.services.Activator" localization="plugin" name="EPF Services Plug-in" project="org.eclipse.epf.services" provider="Eclipse.org"/>
+	<bundle bundleID="1196" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1093" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.richtext.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1045" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1051" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.xmi.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1207" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.help.doc.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1220" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.xml.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1211" class="org.eclipse.epf.importing.ImportPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.import" provider="%providerName"/>
+	<bundle bundleID="1208" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.help.doc.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1131" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.validation.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1104" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1043" class="org.eclipse.epf.library.ui.LibraryUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.ui" provider="%providerName"/>
+	<bundle bundleID="1199" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1204" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.xml.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1079" class="org.eclipse.epf.publishing.ui.PublishingUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.publishing.ui" provider="%providerName"/>
+	<bundle bundleID="1200" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1190" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1194" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1193" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1143" class="org.eclipse.epf.common.html.CommonHTMLPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.common.html" provider="%providerName">
+		<library name="commonHTML.jar"/>
+		<library name="lib/Tidy.jar"/>
+	</bundle>
+	<bundle bundleID="1227" class="org.eclipse.epf.library.edit.ui.LibraryEditUIPlugin" localization="plugin" name="Library Edit UI Plug-in" project="org.eclipse.epf.library.edit.ui" provider="%providerName"/>
+	<bundle bundleID="1171" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.edit.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1178" class="org.eclipse.epf.diagram.tests.DiagramTestPlugin" localization="plugin" name="EPF Diagram Tests" project="org.eclipse.epf.diagram.tests"/>
+	<bundle bundleID="1195" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1071" localization="OSGI-INF/l10n/bundle" name="Nl1 Fragment" project="org.eclipse.epf.publishing.cmdline.nl1"/>
+	<bundle bundleID="1097" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1210" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.help.doc.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1172" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.edit.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1201" class="org.eclipse.epf.export.xml.ExportXMLPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.xml" provider="%providerName"/>
+	<bundle bundleID="1084" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.rcp" provider="%providerName"/>
+	<bundle bundleID="1098" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1121" class="org.eclipse.epf.uma.provider.UmaEditPlugin$Implementation" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma.edit" provider="%providerName">
+		<library name="umaedit.jar"/>
+	</bundle>
+	<bundle bundleID="1037" class="org.eclipse.epf.persistence.PersistencePlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.persistence" provider="%providerName"/>
+	<bundle bundleID="1146" class="org.eclipse.epf.common.ui.CommonUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.common.ui" provider="%providerName"/>
+	<bundle bundleID="1072" localization="OSGI-INF/l10n/bundle" name="Nl2 Fragment" project="org.eclipse.epf.publishing.cmdline.nl2"/>
+	<bundle bundleID="1074" localization="OSGI-INF/l10n/bundle" name="NlBidi Fragment" project="org.eclipse.epf.publishing.cmdline.nlBidi"/>
+	<bundle bundleID="1222" class="org.eclipse.epf.library.edit.LibraryEditPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.edit" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1036" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.nlBidi" provider="%nlProviderName">
+		<library name="nlBidi.jar"/>
+	</bundle>
+	<bundle bundleID="1132" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.validation.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1038" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.persistence.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1039" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.persistence.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1144" class="org.eclipse.epf.common.service.ServicePlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.common.service" provider="%providerName"/>
+	<bundle bundleID="1068" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publish.layout.nlBidi" provider="%nlProviderName">
+		<library name="nlBidi.jar"/>
+	</bundle>
+	<bundle bundleID="1192" class="org.eclipse.epf.export.msp.ui.ExportMSPUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.msp.ui" provider="%providerName">
+		<library name="exportmspui.jar"/>
+	</bundle>
+	<bundle bundleID="1059" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.migration.diagram.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1116" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1212" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1061" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.migration.diagram.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1085" class="org.eclipse.epf.rcp.ui.RCPUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.rcp.ui" provider="%providerName"/>
+	<bundle bundleID="1115" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1091" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.richtext.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1185" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.doc" provider="%providerName"/>
+	<bundle bundleID="1054" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.xmi.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1166" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.core.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1133" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.validation.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1060" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.migration.diagram.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1140" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.authoring.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1040" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.persistence.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1053" class="org.eclipse.epf.library.xmi.XMILibraryPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.xmi" provider="%providerName"/>
+	<bundle bundleID="1163" class="org.eclipse.epf.diagram.core.DiagramCorePlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.core" provider="%providerName"/>
+	<bundle bundleID="1221" class="org.eclipse.epf.library.LibraryPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1161" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.add.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1099" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1179" class="org.eclipse.epf.diagram.ui.DiagramUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.ui" provider="%providerName"/>
+	<bundle bundleID="1042" class="org.eclipse.epf.library.tests.TestsPlugin" localization="plugin" name="Library Tests Plug-in" project="org.eclipse.epf.library.tests" provider="Eclipse.org"/>
+	<bundle bundleID="1213" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1035" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.nl2a" provider="%nlProviderName">
+		<library name="nl2a.jar"/>
+	</bundle>
+	<bundle bundleID="1110" localization="OSGI-INF/l10n/bundle" name="NlBidi Fragment" project="org.eclipse.epf.services.nlBidi"/>
+	<bundle bundleID="1111" localization="plugin" name="EPF Tests Plug-in" project="org.eclipse.epf.tests" provider="Eclipse.org"/>
+	<bundle bundleID="1162" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.add.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1218" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.xml.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1231" localization="OSGI-INF/l10n/bundle" name="NlBidi Fragment" project="org.eclipse.epf.library.edit.ui.nlBidi"/>
+	<bundle bundleID="1047" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1217" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.xml.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1188" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1184" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.wpdd.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1189" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.msp.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1067" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publish.layout.nl2a" provider="%nlProviderName">
+		<library name="nl2a.jar"/>
+	</bundle>
+	<bundle bundleID="1092" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.richtext.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1055" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.xmi.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1215" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1149" localization="OSGI-INF/l10n/bundle" name="Nl2a Fragment" project="org.eclipse.epf.common.ui.nl2a"/>
+	<bundle bundleID="1048" class="org.eclipse.epf.library.ui.xmi.XMILibraryUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.ui.xmi" provider="%providerName"/>
+	<bundle bundleID="1078" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.nlBidi" provider="%nlProviderName">
+		<library name="nlBidi.jar"/>
+	</bundle>
+	<bundle bundleID="1169" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.edit.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1102" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1105" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1175" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.model.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1134" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.validation.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1214" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1103" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.search.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1174" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.model.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1077" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.nl2a" provider="%nlProviderName">
+		<library name="nl2a.jar"/>
+	</bundle>
+	<bundle bundleID="1228" localization="OSGI-INF/l10n/bundle" name="Nl1 Fragment" project="org.eclipse.epf.library.edit.ui.nl1"/>
+	<bundle bundleID="1119" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma" provider="%providerName"/>
+	<bundle bundleID="1052" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.xmi.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1124" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.edit.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1180" class="org.eclipse.epf.diagram.wpdd.part.WPDDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.wpdd" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1041" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.persistence.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1082" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1120" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma.ecore" provider="%providerName"/>
+	<bundle bundleID="1177" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.model.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1056" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.xmi.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1057" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.xmi.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1076" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.nl2" provider="%nlProviderName">
+		<library name="nl2.jar"/>
+	</bundle>
+	<bundle bundleID="1101" class="org.eclipse.epf.search.ui.SearchUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.search.ui" provider="%providerName"/>
+	<bundle bundleID="1090" class="org.eclipse.epf.richtext.RichTextPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.richtext" provider="%providerName">
+		<library name="richtext.jar"/>
+	</bundle>
+	<bundle bundleID="1094" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.richtext.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1229" localization="OSGI-INF/l10n/bundle" name="Nl2 Fragment" project="org.eclipse.epf.library.edit.ui.nl2"/>
+	<bundle bundleID="1135" localization="plugin" name="%pluginName" project="org.eclipse.epf.xml.uma" provider="%providerName"/>
+	<bundle bundleID="1089" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.rcp.ui.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1170" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.edit.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1058" class="org.eclipse.epf.migration.diagram.DiagramMigrationPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.migration.diagram" provider="%providerName"/>
+	<bundle bundleID="1075" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.nl1" provider="%nlProviderName">
+		<library name="nl1.jar"/>
+	</bundle>
+	<bundle bundleID="1126" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1150" localization="OSGI-INF/l10n/bundle" name="NlBidi Fragment" project="org.eclipse.epf.common.ui.nlBidi"/>
+	<bundle bundleID="1153" class="org.eclipse.epf.diagram.ad.part.ActivityDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.ad" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1087" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.rcp.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1113" class="org.eclipse.epf.ui.EPFUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.ui" provider="%providerName"/>
+	<bundle bundleID="1065" class="org.eclipse.epf.publish.layout.LayoutPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.publish.layout" provider="%providerName">
+		<library name="layout.jar"/>
+	</bundle>
+	<bundle bundleID="1066" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publish.layout.nl1" provider="%nlProviderName">
+		<library name="nl1.jar"/>
+	</bundle>
+	<bundle bundleID="1183" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.wpdd.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1050" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.xmi.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1063" localization="plugin" name="%pluginName" project="org.eclipse.epf.msproject" provider="%providerName"/>
+	<bundle bundleID="1182" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.wpdd.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1186" class="org.eclipse.epf.export.ExportPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export" provider="%providerName"/>
+	<bundle bundleID="1206" class="org.eclipse.epf.help.doc.DocPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.help.doc" provider="%providerName">
+		<library name="doc.jar"/>
+	</bundle>
+	<bundle bundleID="1069" class="org.eclipse.epf.publishing.PublishingPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.publishing" provider="%providerName">
+		<library name="publishing.jar"/>
+		<library name="lib/rpwcore.jar"/>
+	</bundle>
+	<bundle bundleID="1109" localization="OSGI-INF/l10n/bundle" name="Nl2a Fragment" project="org.eclipse.epf.services.nl2a"/>
+	<bundle bundleID="1129" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1181" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.wpdd.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1086" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.rcp.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1117" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.ui.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1225" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.edit.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1219" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.import.xml.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1125" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.edit.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1197" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1049" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.library.ui.xmi.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1173" class="org.eclipse.epf.diagram.model.util.DiagramModelPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.model" provider="%providerName"/>
+	<bundle bundleID="1080" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.ui.nl1" provider="%nlProviderName"/>
+	<bundle bundleID="1130" class="org.eclipse.epf.validation.Activator" localization="plugin" name="%pluginName" project="org.eclipse.epf.validation" provider="%providerName"/>
+	<bundle bundleID="1070" class="org.eclipse.epf.publishing.cmdline.CmdlinePlugin" localization="OSGI-INF/l10n/bundle" name="Cmdline Publishing Plug-in" project="org.eclipse.epf.publishing.cmdline" provider="Eclipse.org">
+		<library name="cmdline.jar"/>
+	</bundle>
+	<bundle bundleID="1176" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.model.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1198" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.export.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1081" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.publishing.ui.nl2" provider="%nlProviderName"/>
+	<bundle bundleID="1114" localization="plugin" name="%pluginName" project="org.eclipse.epf.ui.intro" provider="%providerName"/>
+	<bundle bundleID="1167" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.diagram.core.nlBidi" provider="%nlProviderName"/>
+	<bundle bundleID="1128" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.uma.nl2a" provider="%nlProviderName"/>
+	<bundle bundleID="1118" localization="nl_fragment" name="%nlFragmentName" project="org.eclipse.epf.ui.nlBidi" provider="%nlProviderName"/>
+</map>
