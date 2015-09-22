@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+	<bundle bundleID="411" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.exportWizards"/>
+		<extension line="25" point="org.eclipse.epf.ui.exportWizards"/>
+		<extension-point id="exportMSPWizard" line="22" name="Export Microsoft Project Wizard Extension" schema="schema/ExportMSPWizard.exsd"/>
+	</bundle>
+	<bundle bundleID="428" schema="3.0">
+		<extension id="MainApplication" line="7" point="org.eclipse.core.runtime.applications"/>
+		<extension id="composer" line="17" point="org.eclipse.core.runtime.products">
+			<product application="org.eclipse.epf.rcp.ui.MainApplication" name="Eclipse Process Framework Composer">
+				<property name="preferenceCustomization" value="plugin_customization.ini"/>
+				<property name="startupForegroundColor" value="C8D5EA"/>
+				<property name="startupMessageRect" value="7,220,441,20"/>
+				<property name="startupProgressRect" value="0,280,455,15"/>
+				<property name="aboutImage" value="icons/about.gif"/>
+				<property name="aboutText" value="%aboutText"/>
+				<property name="windowImages" value="icons/full/obj16/product.gif,icons/full/obj32/product32.gif"/>
+				<property name="appName" value="Eclipse Process Framework Composer"/>
+			</product>
+		</extension>
+		<extension line="50" point="org.eclipse.ui.commands"/>
+		<extension line="59" point="org.eclipse.ui.actionSets"/>
+		<extension line="86" point="org.eclipse.ui.activities"/>
+	</bundle>
+	<bundle bundleID="414" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.importWizards"/>
+		<extension line="30" point="org.eclipse.epf.ui.importWizards"/>
+		<extension line="35" point="org.eclipse.epf.ui.importWizards"/>
+		<extension line="39" point="org.eclipse.epf.common.commandLineRunners"/>
+	</bundle>
+	<bundle bundleID="435" schema="3.0">
+		<extension line="6" point="org.eclipse.emf.ecore.generated_package"/>
+	</bundle>
+	<bundle bundleID="419" schema="3.0">
+		<extension line="20" point="org.eclipse.ui.actionSets"/>
+		<extension-point id="newLibraryWizardPages" line="8" name="EPF New Method Library Wizard Pages" schema="schema/NewLibraryWizardPages.exsd"/>
+		<extension-point id="openLibraryWizardPages" line="13" name="EPF Open Method Library Wizard Pages" schema="schema/OpenLibraryWizardPages.exsd"/>
+		<extension-point id="openLibraryWizard" line="18" name="Open Method Library Wizard Extension" schema="schema/OpenLibraryWizard.exsd"/>
+	</bundle>
+	<bundle bundleID="440" schema="3.2">
+		<extension id="sampleBuilder" line="8" name="Sample Project Builder" point="org.eclipse.core.resources.builders"/>
+		<extension id="sampleNature" line="19" name="Sample Project Nature" point="org.eclipse.core.resources.natures"/>
+		<extension line="30" point="org.eclipse.ui.popupMenus"/>
+		<extension id="xmlProblem" line="48" name="XML Problem" point="org.eclipse.core.resources.markers"/>
+	</bundle>
+	<bundle bundleID="407" schema="3.0">
+		<extension line="6" point="org.eclipse.core.runtime.preferences"/>
+		<extension line="10" point="org.eclipse.team.core.fileTypes"/>
+		<extension line="17" point="org.eclipse.emf.ecore.extension_parser"/>
+		<extension line="24" point="org.eclipse.ui.editors"/>
+		<extension line="64" point="org.eclipse.ui.popupMenus"/>
+		<extension line="133" point="org.eclipse.gmf.runtime.common.ui.services.action.contributionItemProviders"/>
+		<extension line="167" point="org.eclipse.gmf.runtime.common.ui.services.action.globalActionHandlerProviders"/>
+		<extension line="217" point="org.eclipse.gmf.runtime.diagram.core.viewProviders"/>
+		<extension line="226" point="org.eclipse.gmf.runtime.diagram.ui.editpartProviders"/>
+		<extension line="232" point="org.eclipse.gmf.runtime.diagram.ui.paletteProviders"/>
+		<extension line="250" point="org.eclipse.gmf.runtime.emf.ui.modelingAssistantProviders"/>
+		<extension line="256" point="org.eclipse.gmf.runtime.common.ui.services.properties.propertiesProviders"/>
+		<extension line="264" point="org.eclipse.gmf.runtime.common.ui.services.iconProviders"/>
+		<extension line="281" point="org.eclipse.gmf.runtime.common.ui.services.parserProviders"/>
+		<extension line="287" point="org.eclipse.gmf.runtime.emf.type.core.elementTypes"/>
+		<extension line="322" point="org.eclipse.gmf.runtime.emf.type.core.elementTypeBindings"/>
+	</bundle>
+	<bundle bundleID="426" schema="3.0">
+		<extension line="11" point="org.eclipse.ui.actionSets"/>
+		<extension line="32" point="org.eclipse.ui.perspectiveExtensions"/>
+		<extension line="48" point="org.eclipse.ui.actionSetPartAssociations"/>
+		<extension line="57" point="org.eclipse.ui.preferencePages"/>
+		<extension line="76" point="org.eclipse.epf.library.edit.commandListeners"/>
+		<extension-point id="publishConfigWizard" line="8" name="Publish Method Configuraiton Wizard Extension" schema="schema/PublishConfigWizard.exsd"/>
+	</bundle>
+	<bundle bundleID="415" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.importWizards"/>
+		<extension line="20" point="org.eclipse.epf.ui.importWizards"/>
+	</bundle>
+	<bundle bundleID="431" schema="3.0">
+		<extension line="5" point="org.eclipse.search.searchPages"/>
+		<extension id="MethodSearchPage" line="20" point="org.eclipse.search.searchResultViewPages"/>
+	</bundle>
+	<bundle bundleID="439" schema="3.0">
+		<extension line="13" point="org.eclipse.emf.ecore.generated_package"/>
+		<extension line="19" point="org.eclipse.emf.ecore.extension_parser"/>
+	</bundle>
+	<bundle bundleID="442" schema="3.2">
+		<extension line="6" point="org.eclipse.help.toc"/>
+	</bundle>
+	<bundle bundleID="403" schema="3.2">
+		<extension line="5" point="org.eclipse.epf.library.edit.nestedCommandProviders"/>
+		<extension line="9" point="org.eclipse.ui.popupMenus"/>
+	</bundle>
+	<bundle bundleID="416" schema="3.0">
+		<extension id="project.MethodLibraryProjectNature" line="8" name="Method Library Project Nature" point="org.eclipse.core.resources.natures"/>
+		<extension line="21" point="org.eclipse.epf.library.edit.textReferenceReplacer"/>
+		<extension-point id="libraryManagers" line="18" name="Method Library Managers" schema="schema/LibraryManagers.exsd"/>
+		<extension-point id="elementLayoutExtensions" line="19" name="Element layout Extensions" schema="schema/elementLayoutExtensions.exsd"/>
+	</bundle>
+	<bundle bundleID="421" schema="3.0">
+		<extension line="7" point="org.eclipse.epf.library.libraryManagers"/>
+		<extension line="15" point="org.eclipse.epf.library.persistence.migrators"/>
+		<extension line="24" point="org.eclipse.epf.library.edit.oppositeFeatureLoaders"/>
+		<extension-point id="diagramMigration" line="4" name="Diagram Migration" schema="schema/IDiagramMigration.exsd"/>
+	</bundle>
+	<bundle bundleID="422" schema="3.2">
+		<extension line="25" point="org.eclipse.epf.library.xmi.diagramMigration"/>
+	</bundle>
+	<bundle bundleID="404" schema="3.0">
+		<extension line="13" point="org.eclipse.emf.edit.itemProviderAdapterFactories"/>
+	</bundle>
+	<bundle bundleID="401" schema="3.0">
+		<extension line="17" point="org.eclipse.core.runtime.preferences"/>
+		<extension line="21" point="org.eclipse.team.core.fileTypes"/>
+		<extension line="28" point="org.eclipse.emf.ecore.extension_parser"/>
+		<extension line="35" point="org.eclipse.ui.editors"/>
+		<extension line="59" point="org.eclipse.ui.popupMenus"/>
+		<extension line="87" point="org.eclipse.gmf.runtime.common.ui.services.action.contributionItemProviders"/>
+		<extension line="210" point="org.eclipse.gmf.runtime.common.ui.services.action.globalActionHandlerProviders"/>
+		<extension line="260" point="org.eclipse.gmf.runtime.diagram.core.viewProviders"/>
+		<extension line="269" point="org.eclipse.gmf.runtime.diagram.ui.editpartProviders"/>
+		<extension line="275" point="org.eclipse.gmf.runtime.diagram.ui.paletteProviders"/>
+		<extension line="292" point="org.eclipse.gmf.runtime.emf.ui.modelingAssistantProviders"/>
+		<extension line="298" point="org.eclipse.gmf.runtime.common.ui.services.properties.propertiesProviders"/>
+		<extension line="306" point="org.eclipse.gmf.runtime.common.ui.services.iconProviders"/>
+		<extension line="323" point="org.eclipse.gmf.runtime.common.ui.services.parserProviders"/>
+		<extension line="329" point="org.eclipse.gmf.runtime.emf.type.core.elementTypes"/>
+		<extension line="496" point="org.eclipse.gmf.runtime.emf.type.core.elementTypeBindings"/>
+		<extension line="525" point="org.eclipse.epf.library.edit.nestedCommandProviders"/>
+	</bundle>
+	<bundle bundleID="412" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.exportWizards"/>
+		<extension line="20" point="org.eclipse.epf.ui.exportWizards"/>
+	</bundle>
+	<bundle bundleID="433" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.views"/>
+		<extension line="13" point="org.eclipse.ui.newWizards"/>
+		<extension line="21" point="org.eclipse.ui.exportWizards"/>
+		<extension line="29" point="org.eclipse.ui.importWizards"/>
+		<extension line="46" point="org.eclipse.ui.preferencePages"/>
+		<extension-point id="exportWizards" line="39" name="EPF Export Wizards" schema="schema/ExportWizards.exsd"/>
+		<extension-point id="importWizards" line="44" name="EPF Import Wizards" schema="schema/ImportWizards.exsd"/>
+	</bundle>
+	<bundle bundleID="397" schema="3.0">
+		<extension id="epf" line="8" point="org.eclipse.epf.common.version"/>
+		<extension-point id="version" line="4" name="Version" schema="schema/org.eclipse.epf.common.version.exsd"/>
+		<extension-point id="commandLineRunners" line="5" name="CommandLineRunners" schema="schema/commandLineRunners.exsd"/>
+	</bundle>
+	<bundle bundleID="437" schema="3.0">
+		<extension line="13" point="org.eclipse.emf.edit.itemProviderAdapterFactories"/>
+	</bundle>
+	<bundle bundleID="423" schema="3.0">
+		<extension line="13" point="org.eclipse.emf.ecore.generated_package"/>
+		<extension line="20" point="org.eclipse.emf.ecore.extension_parser"/>
+	</bundle>
+	<bundle bundleID="418" schema="3.0">
+		<extension line="7" point="org.eclipse.emf.ecore.generated_package"/>
+		<extension line="16" point="org.eclipse.epf.library.persistence.migrators"/>
+		<extension line="22" point="org.eclipse.epf.services.serviceProviders"/>
+		<extension line="31" point="org.eclipse.epf.library.persistence.resourceSetFactories"/>
+		<extension id="unresolvedProxyMarker" line="38" point="org.eclipse.core.resources.markers"/>
+		<extension-point id="migrators" line="4" name="Migrators" schema="schema/migrators.exsd"/>
+		<extension-point id="resourceSetFactories" line="5" name="Library Resource Set Factories" schema="schema/resourceSetFactories.exsd"/>
+	</bundle>
+	<bundle bundleID="409" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.exportWizards"/>
+		<extension line="30" point="org.eclipse.epf.ui.exportWizards"/>
+	</bundle>
+	<bundle bundleID="413" schema="3.0">
+		<extension line="14" point="org.eclipse.help.toc"/>
+		<extension line="60" point="org.eclipse.help.contexts"/>
+		<extension line="64" point="org.eclipse.help.contexts"/>
+		<extension id="org.eclipse.epf.help.doc.cheatsheets" line="71" name="%methodAuthoringCheatSheetsName" point="org.eclipse.ui.cheatsheets.cheatSheetContent"/>
+		<extension id="org.eclipse.epf.help.doc.cheatsheets" line="95" name="%methodAuthoringCheatSheetsName" point="org.eclipse.ui.cheatsheets.cheatSheetContent"/>
+		<extension id="org.eclipse.epf.help.doc.cheatsheets" line="119" name="%methodAuthoringCheatSheetsName" point="org.eclipse.ui.cheatsheets.cheatSheetContent"/>
+		<extension id="org.eclipse.epf.help.doc.cheatsheets" line="133" name="%methodAuthoringCheatSheetsName" point="org.eclipse.ui.cheatsheets.cheatSheetContent"/>
+	</bundle>
+	<bundle bundleID="417" schema="3.0">
+		<extension line="13" point="org.eclipse.emf.ecore.generated_package"/>
+		<extension-point id="textReferenceReplacer" line="4" name="Text Reference Replacer" schema="schema/textReferenceReplacer.exsd"/>
+		<extension-point id="diagramManager" line="5" name="Diagram Manager" schema="schema/diagramManager.exsd"/>
+		<extension-point id="commandListeners" line="6" name="Command Listeners" schema="schema/commandListeners.exsd"/>
+		<extension-point id="libraryInspector" line="7" name="Library Inspector" schema="schema/libraryInspector.exsd"/>
+		<extension-point id="nestedCommandProviders" line="8" name="Nested Command Providers" schema="schema/nestedCommandProviders.exsd"/>
+		<extension-point id="oppositeFeatureLoaders" line="9" name="OppositeFeature Loaders" schema="schema/oppositeFeatureLoaders.exsd"/>
+		<extension-point id="userInteractionHandler" line="10" name="User Interaction Handler" schema="schema/userInteractionHandler.exsd"/>
+		<extension-point id="validationSupport" line="11" name="Validation Support" schema="schema/validationSupport.exsd"/>
+	</bundle>
+	<bundle bundleID="441" schema="3.2">
+		<extension line="6" point="org.eclipse.help.toc"/>
+	</bundle>
+	<bundle bundleID="402" schema="3.0">
+		<extension line="6" point="org.eclipse.core.runtime.preferences"/>
+		<extension line="10" point="org.eclipse.team.core.fileTypes"/>
+		<extension line="17" point="org.eclipse.emf.ecore.extension_parser"/>
+		<extension line="24" point="org.eclipse.ui.editors"/>
+		<extension line="62" point="org.eclipse.ui.popupMenus"/>
+		<extension line="131" point="org.eclipse.gmf.runtime.common.ui.services.action.contributionItemProviders"/>
+		<extension line="188" point="org.eclipse.gmf.runtime.common.ui.services.action.globalActionHandlerProviders"/>
+		<extension line="238" point="org.eclipse.gmf.runtime.diagram.core.viewProviders"/>
+		<extension line="247" point="org.eclipse.gmf.runtime.diagram.ui.editpartProviders"/>
+		<extension line="253" point="org.eclipse.gmf.runtime.diagram.ui.paletteProviders"/>
+		<extension line="271" point="org.eclipse.gmf.runtime.emf.ui.modelingAssistantProviders"/>
+		<extension line="277" point="org.eclipse.gmf.runtime.common.ui.services.properties.propertiesProviders"/>
+		<extension line="285" point="org.eclipse.gmf.runtime.common.ui.services.iconProviders"/>
+		<extension line="302" point="org.eclipse.gmf.runtime.common.ui.services.parserProviders"/>
+		<extension line="308" point="org.eclipse.gmf.runtime.emf.type.core.elementTypes"/>
+		<extension line="387" point="org.eclipse.gmf.runtime.emf.type.core.elementTypeBindings"/>
+	</bundle>
+	<bundle bundleID="405" schema="3.0">
+		<extension line="5" point="org.eclipse.emf.ecore.generated_package"/>
+		<extension line="11" point="org.eclipse.epf.library.edit.diagramManager"/>
+	</bundle>
+	<bundle bundleID="438" schema="3.0">
+		<extension line="6" point="org.eclipse.emf.validation.constraintProviders"/>
+		<extension line="44" point="org.eclipse.emf.validation.constraintBindings"/>
+		<extension line="55" point="org.eclipse.emf.validation.traversal"/>
+		<extension line="61" point="org.eclipse.ui.startup"/>
+	</bundle>
+	<bundle bundleID="395" schema="3.0">
+		<extension line="38" point="org.eclipse.ui.perspectives"/>
+		<extension line="53" point="org.eclipse.ui.views"/>
+		<extension line="74" point="org.eclipse.ui.perspectiveExtensions"/>
+		<extension line="102" point="org.eclipse.ui.editors"/>
+		<extension line="139" point="org.eclipse.ui.newWizards"/>
+		<extension line="189" point="org.eclipse.ui.views.properties.tabbed.propertyContributor"/>
+		<extension line="199" point="org.eclipse.ui.views.properties.tabbed.propertyTabs"/>
+		<extension line="314" point="org.eclipse.ui.views.properties.tabbed.propertySections"/>
+		<extension line="481" point="org.eclipse.ui.preferencePages"/>
+		<extension line="526" point="org.eclipse.core.runtime.preferences"/>
+		<extension line="533" point="org.eclipse.ui.viewActions"/>
+		<extension line="579" point="org.eclipse.ui.commands"/>
+		<extension line="588" point="org.eclipse.ui.bindings"/>
+		<extension line="596" point="org.eclipse.ui.actionSets"/>
+		<extension line="609" point="org.eclipse.ui.decorators"/>
+		<extension line="619" point="org.eclipse.ui.ide.markerResolution"/>
+		<extension id="methodRichText" line="623" name="%RichTextMarkerTypeName" point="org.eclipse.core.resources.markers"/>
+		<extension id="configuration" line="629" name="%ConfigurationMarkerTypeName" point="org.eclipse.core.resources.markers"/>
+		<extension line="638" point="org.eclipse.ui.ide.markerResolution"/>
+		<extension line="643" point="org.eclipse.epf.library.edit.userInteractionHandler"/>
+		<extension-point id="newPluginWizard" line="8" name="New Method Plug-in Wizard Extension" schema="schema/NewPluginWizard.exsd"/>
+		<extension-point id="newConfigurationWizard" line="13" name="New Method Configuration Wizard Extension" schema="schema/NewConfigurationWizard.exsd"/>
+		<extension-point id="TaskEditorPageProvider" line="23" name="Task Editor Page Provider" schema="schema/TaskEditorPageProvider.exsd"/>
+		<extension-point id="ProcessEditorPageProvider" line="28" name="Process Editor Page Provider" schema="schema/ProcessEditorPageProvider.exsd"/>
+		<extension-point id="wizardRegistryProvider" line="33" name="Wizard Registery Provider" schema="schema/wizardRegistryProvider.exsd"/>
+		<extension-point id="EditorOpener" line="34" name="Editor Opener" schema="schema/editorOpener.exsd"/>
+		<extension-point id="CustomizedLocker" line="35" name="Customized Locker" schema="schema/CustomizedLocker.exsd"/>
+		<extension-point id="kk" line="36" name="ll" schema="schema/kk.exsd"/>
+	</bundle>
+	<bundle bundleID="434" schema="3.0">
+		<extension line="6" point="org.eclipse.ui.intro">
+			<intro class="org.eclipse.ui.intro.config.CustomizableIntroPart" icon="icons/full/obj16/product.gif" id="org.eclipse.epf.ui.intro"/>
+			<introProductBinding introId="org.eclipse.epf.ui.intro" productId="org.eclipse.epf.rcp.ui.composer"/>
+		</extension>
+		<extension line="17" point="org.eclipse.ui.intro.config"/>
+		<extension line="58" point="org.eclipse.ui.intro.configExtension"/>
+	</bundle>
+	<bundle bundleID="432" schema="3.0">
+		<extension-point id="serviceProviders" line="8" name="EPF Services" schema="schema/serviceProviders.exsd"/>
+	</bundle>
+	<bundle bundleID="398" schema="3.2">
+		<extension id="epf" line="8" point="org.eclipse.epf.common.service.version"/>
+		<extension-point id="version" line="4" name="Version" schema="schema/org.eclipse.epf.common.version.exsd"/>
+		<extension-point id="commandLineRunners" line="5" name="CommandLineRunners" schema="schema/commandLineRunners.exsd"/>
+	</bundle>
+	<bundle bundleID="420" schema="3.0">
+		<extension line="6" point="org.eclipse.epf.library.ui.newLibraryWizardPages"/>
+		<extension line="16" point="org.eclipse.epf.library.ui.openLibraryWizardPages"/>
+	</bundle>
+</extensions>

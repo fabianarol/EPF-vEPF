@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.epf.library.ui.newLibraryWizardPages">
+      <newLibraryWizardPage
+            class="org.eclipse.epf.library.ui.xmi.NewXMILibraryWizardPage"
+            type="xmi"
+            title="%newXMILibraryWizardPageTitle"
+            description="%newXMILibraryWizardPageDescription">
+      </newLibraryWizardPage>
+   </extension>
+   
+   <extension
+         point="org.eclipse.epf.library.ui.openLibraryWizardPages">
+      <openLibraryWizardPage
+            class="org.eclipse.epf.library.ui.xmi.OpenXMILibraryWizardPage"
+            type="xmi"
+            title="%openXMILibraryWizardPageTitle"
+            description="%openXMILibraryWizardPageDescription">
+      </openLibraryWizardPage>
+   </extension>   
+
+</plugin>

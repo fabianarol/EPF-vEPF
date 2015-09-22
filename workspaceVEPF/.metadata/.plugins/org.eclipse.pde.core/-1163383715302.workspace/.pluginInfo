@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="411" class="org.eclipse.epf.export.msp.ui.ExportMSPUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.msp.ui" provider="%providerName">
+		<library name="exportmspui.jar"/>
+	</bundle>
+	<bundle bundleID="428" class="org.eclipse.epf.rcp.ui.RCPUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.rcp.ui" provider="%providerName"/>
+	<bundle bundleID="408" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.doc" provider="%providerName"/>
+	<bundle bundleID="414" class="org.eclipse.epf.importing.ImportPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.import" provider="%providerName"/>
+	<bundle bundleID="399" localization="plugin" name="%pluginName" project="org.eclipse.epf.common.win32.win32.x86" provider="%providerName"/>
+	<bundle bundleID="396" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.base" provider="%providerName"/>
+	<bundle bundleID="435" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma" provider="%providerName"/>
+	<bundle bundleID="419" class="org.eclipse.epf.library.ui.LibraryUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.ui" provider="%providerName"/>
+	<bundle bundleID="440" name="Ui2 Plug-in" project="org.eclipse.vepf.authoring.ui2"/>
+	<bundle bundleID="407" class="org.eclipse.epf.diagram.wpdd.part.WPDDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.wpdd" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="436" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma.ecore" provider="%providerName"/>
+	<bundle bundleID="426" class="org.eclipse.epf.publishing.ui.PublishingUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.publishing.ui" provider="%providerName"/>
+	<bundle bundleID="415" class="org.eclipse.epf.importing.xml.ImportXMLPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.import.xml" provider="%providerName"/>
+	<bundle bundleID="431" class="org.eclipse.epf.search.ui.SearchUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.search.ui" provider="%providerName"/>
+	<bundle bundleID="429" class="org.eclipse.epf.richtext.RichTextPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.richtext" provider="%providerName">
+		<library name="richtext.jar"/>
+	</bundle>
+	<bundle bundleID="443" class="fdgsfd.Activator" name="Fdgsfd Plug-in" project="pruebas"/>
+	<bundle bundleID="439" localization="plugin" name="%pluginName" project="org.eclipse.epf.xml.uma" provider="%providerName"/>
+	<bundle bundleID="442" name="Ui Plug-in" project="org.eclipse.vepf.rcp.ui"/>
+	<bundle bundleID="403" class="org.eclipse.epf.diagram.core.DiagramCorePlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.core" provider="%providerName"/>
+	<bundle bundleID="416" class="org.eclipse.epf.library.LibraryPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library" provider="%providerName">
+		<library name="library.jar"/>
+	</bundle>
+	<bundle bundleID="421" class="org.eclipse.epf.library.xmi.XMILibraryPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.xmi" provider="%providerName"/>
+	<bundle bundleID="406" class="org.eclipse.epf.diagram.ui.DiagramUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.ui" provider="%providerName"/>
+	<bundle bundleID="422" class="org.eclipse.epf.migration.diagram.DiagramMigrationPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.migration.diagram" provider="%providerName"/>
+	<bundle bundleID="410" class="org.eclipse.epf.export.msp.ExportMSPPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.msp" provider="%providerName">
+		<library name="exportmsp.jar"/>
+	</bundle>
+	<bundle bundleID="404" class="org.eclipse.epf.diagram.model.provider.DiagramEditPlugin$Implementation" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.edit" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="401" class="org.eclipse.epf.diagram.ad.part.ActivityDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.ad" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="412" class="org.eclipse.epf.export.xml.ExportXMLPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export.xml" provider="%providerName"/>
+	<bundle bundleID="433" class="org.eclipse.epf.ui.EPFUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.ui" provider="%providerName"/>
+	<bundle bundleID="427" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.rcp" provider="%providerName"/>
+	<bundle bundleID="397" class="org.eclipse.epf.common.CommonPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.common" provider="%providerName">
+		<library name="common.jar"/>
+		<library name="lib/jtidy-8.0-20060801.131059-3.jar"/>
+	</bundle>
+	<bundle bundleID="437" class="org.eclipse.epf.uma.provider.UmaEditPlugin$Implementation" localization="plugin" name="%pluginName" project="org.eclipse.epf.uma.edit" provider="%providerName">
+		<library name="umaedit.jar"/>
+	</bundle>
+	<bundle bundleID="430" class="org.eclipse.epf.search.SearchPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.search" provider="%providerName"/>
+	<bundle bundleID="423" localization="plugin" name="%pluginName" project="org.eclipse.epf.msproject" provider="%providerName"/>
+	<bundle bundleID="418" class="org.eclipse.epf.persistence.PersistencePlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.persistence" provider="%providerName"/>
+	<bundle bundleID="409" class="org.eclipse.epf.export.ExportPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.export" provider="%providerName"/>
+	<bundle bundleID="413" class="org.eclipse.epf.help.doc.DocPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.help.doc" provider="%providerName">
+		<library name="doc.jar"/>
+	</bundle>
+	<bundle bundleID="425" class="org.eclipse.epf.publishing.PublishingPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.publishing" provider="%providerName">
+		<library name="publishing.jar"/>
+		<library name="lib/rpwcore.jar"/>
+	</bundle>
+	<bundle bundleID="417" class="org.eclipse.epf.library.edit.LibraryEditPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.edit" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="441" name="Ui Plug-in" project="org.eclipse.vepf.library.edit"/>
+	<bundle bundleID="402" class="org.eclipse.epf.diagram.add.part.ActivityDetailDiagramEditorPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.add" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="424" localization="plugin" name="%featurePluginName" project="org.eclipse.epf.platform" provider="%providerName"/>
+	<bundle bundleID="405" localization="plugin" name="%pluginName" project="org.eclipse.epf.diagram.model" provider="%providerName"/>
+	<bundle bundleID="438" class="org.eclipse.epf.validation.Activator" localization="plugin" name="%pluginName" project="org.eclipse.epf.validation" provider="%providerName"/>
+	<bundle bundleID="395" class="org.eclipse.epf.authoring.ui.AuthoringUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.authoring.ui" provider="%providerName">
+		<library name="."/>
+		<library name="lib/commons-beanutils-1.8.0.jar"/>
+		<library name="lib/commons-collections-2.1.1.jar"/>
+		<library name="lib/commons-digester-2.1.jar"/>
+		<library name="lib/commons-javaflow-20060411.jar"/>
+		<library name="lib/commons-logging-1.1.1.jar"/>
+		<library name="lib/groovy-all-1.7.5.jar"/>
+		<library name="lib/iText-2.1.7.jar"/>
+		<library name="lib/jasperreports-4.5.1.jar"/>
+		<library name="lib/jasperreports-applet-4.5.1.jar"/>
+		<library name="lib/jasperreports-fonts-4.5.1.jar"/>
+		<library name="lib/jasperreports-javaflow-4.5.1.jar"/>
+		<library name="lib/png-encoder-1.5.jar"/>
+		<library name="lib/poi-3.7-20101029.jar"/>
+		<library name="lib/jcommon-1.0.15.jar"/>
+		<library name="lib/jfreechart-1.0.12.jar"/>
+	</bundle>
+	<bundle bundleID="434" localization="plugin" name="%pluginName" project="org.eclipse.epf.ui.intro" provider="%providerName"/>
+	<bundle bundleID="400" localization="plugin" name="%pluginName" project="org.eclipse.epf.dataexchange" provider="%providerName"/>
+	<bundle bundleID="432" class="org.eclipse.epf.services.Activator" localization="plugin" name="EPF Services Plug-in" project="org.eclipse.epf.services" provider="Eclipse.org"/>
+	<bundle bundleID="398" class="org.eclipse.epf.common.service.ServicePlugin" name="%pluginName" project="org.eclipse.epf.common.service" provider="%providerName"/>
+	<bundle bundleID="420" class="org.eclipse.epf.library.ui.xmi.XMILibraryUIPlugin" localization="plugin" name="%pluginName" project="org.eclipse.epf.library.ui.xmi" provider="%providerName"/>
+	<bundle bundleID="444" name="uma Plug-in" project="uma"/>
+</map>
